@@ -13,6 +13,7 @@ Limitation du traffic (ex: Express-Rate-Limit)
 
 ## SOP: Same origin Policy
 
+
 #### Description:
 Méchanisme de sécurité (natif à tout les navigateurs modernes) bridant les requêtes et script essayant d’interagir avec des domaines n’ayant pas la même origine.
 
